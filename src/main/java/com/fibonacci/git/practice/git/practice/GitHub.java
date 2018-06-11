@@ -11,6 +11,7 @@ public class GitHub
     }
     
     
-    privtae void methodAddedFromGitHubUIAfterStash(){
+    private  void methodAddedFromGitHubUIAfterStash(){
+    	// this line added from Eclipse IDE , after stash
     }
 }
