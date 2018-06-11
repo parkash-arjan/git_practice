@@ -8,6 +8,7 @@ public class GitHub {
 		System.out.println("Some more changes from Eclipse IDE...");
 		System.out.println("Changes from GitHub Web UI...");
 		System.out.println("One more stash chnage from GitHub Web UI...");
+		System.out.println("Going to Stash this line of code...");
 		System.out.println("One more change from Eclipse IDE...");
 		System.out.println("One more chnage from GitHub Web UI...");
 	}
@@ -20,8 +21,15 @@ public class GitHub {
 
 	}
 	
+
 	private void oneMoreMthodAddedFromGitHubUIAfterStash() {
 		// this line added from Eclipse IDE , after stash
 	}	
+
+	
+	private void goingToStashThisMethod() {
+		
+	}
+
 
 }
