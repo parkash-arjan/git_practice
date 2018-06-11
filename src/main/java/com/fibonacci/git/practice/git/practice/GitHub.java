@@ -1,7 +1,9 @@
 package com.fibonacci.git.practice.git.practice;
+<<<<<<< HEAD
 public class GitHub
 {
-    public static void main( String[] args )
+	private String stashString;
+   public static void main( String[] args )
     { 
         System.out.println( "This file is added from GitHUb directly...." );
         System.out.println( "Some more changes from Eclipse IDE..." );
@@ -14,4 +16,9 @@ public class GitHub
     private  void methodAddedFromGitHubUIAfterStash(){
     	// this line added from Eclipse IDE , after stash
     }
+
+	private void stashMethod() {
+
+	}    
+    
 }

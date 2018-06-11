@@ -6,6 +6,8 @@ package com.fibonacci.git.practice.git.practice;
  */
 public class App 
 {
+	//Stash comment.
+	
     public static void main( String[] args )
     {
     	
@@ -14,4 +16,6 @@ public class App
         //Thid comment added on GitHub Web UI.
         System.out.println( "Git Practice..." );
     }
+    
+    
 }
